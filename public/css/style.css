@@ -266,10 +266,10 @@ nav li:hover::after{
     left: 100%;
     z-index: 3;
 }
-#card1, #card3{
+#card1, #card3, #card5, #card7, #card9, #card11, #card13, #card15{
     flex: 1;
 }
-#card2, #card4{
+#card2, #card4, #card6, #card8, #card10, #card12, #card14, #card16{
     flex: 1;
 }
 .card:hover .carousel-arrow{
