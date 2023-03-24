@@ -50,6 +50,7 @@
     </header>
     <main>
         <div class="tour-history-container">
+        <button class="button" style="vertical-align:middle"><span>Go back </span></button>
             <div class="history-title">
                 <h3>Your Tour History</h3>
             </div>
